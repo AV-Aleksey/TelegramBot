@@ -1,3 +1,3 @@
 # TelegramBot
 
-![screenshot](Maket_new.jpg).
+![screenshot](bot.jpg).
